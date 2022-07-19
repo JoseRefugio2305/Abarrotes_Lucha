@@ -11,3 +11,10 @@
 ![texto_alternativo](/img/capturaadministrador.png)
 
 [Plantilla Usada](https://startbootstrap.com/template/sb-admin)
+
+## Tecnologías Usadas
+- Lenguaje PHP
+- HTML
+- JavaScript
+- CSS
+- MySQL
