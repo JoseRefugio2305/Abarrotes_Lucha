@@ -1,0 +1,4 @@
+Para que la pagina funcione correctamente se debe crear primero la base de datos, el archivo esta en la carpeta config, 
+el archivo ya viene con los datos insertados
+Tambien ahi se encuentra el archivo de configuraciones de la conexion a la base de datos por si se tinen diferentes configuraciones
+
